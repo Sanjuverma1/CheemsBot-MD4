@@ -56,7 +56,7 @@
     "signalIdentities": [
       {
         "identifier": {
-          "name": "919352168745:52@s.whatsapp.net",
+          "name": "+919352168745":52@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -548,7 +548,7 @@
       "AAAAAPeT": {
         "keyData": "tkhQPZ137U+YfVE9/4/wDztROjgCxGypdekIDbUTl0U=",
         "fingerprint": {
-          "rawId": 950784859,
+          "rawId": 9352168745,
           "currentIndex": 1,
           "deviceIndexes": [
             0
@@ -559,7 +559,7 @@
       "AAAAAPeY": {
         "keyData": "5ZezCgz3kKo2M00Xu5s2MhhPAm28qPuJe/1Ei8CpnuY=",
         "fingerprint": {
-          "rawId": 950784861,
+          "rawId": 9352168745,
           "currentIndex": 1,
           "deviceIndexes": [
             0,
@@ -572,7 +572,7 @@
     "senderKeys": {
       "918787387774-1630640321@g.us::918787387774::0": [
         {
-          "senderKeyId": 1822496531,
+          "senderKeyId": 9352168745,
           "senderChainKey": {
             "iteration": 31,
             "seed": "66azlDGF5SiUG40bbv+KHwaOw919DQsY1wVabZ0rHS8="
@@ -670,6 +670,7 @@
             }
           }
         }
+        
       }
     }
   }
